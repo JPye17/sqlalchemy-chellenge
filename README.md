@@ -32,8 +32,8 @@ Retrieves and visualizes the last 12 months of precipitation data.
 Identifies the most active weather station.
 Analyzes temperature data for the most active station.
 
-## API: A Flask-based API that serves climate data through various endpoints.
-# API Endpoints
+# API: A Flask-based API that serves climate data through various endpoints.
+## API Endpoints
 Home Page: /
 Lists all available routes. Precipitation Data: /api/v1.0/precipitation
 
